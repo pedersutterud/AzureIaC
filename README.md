@@ -1,2 +1,2 @@
-# AzureIaaC
-Azure IaaC using Bicep
+# AzureIaC
+Azure IaC using Bicep
